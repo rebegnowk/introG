@@ -3,4 +3,4 @@
 log.txt
 /dir2
 *.txt
-
+.DS_Store
