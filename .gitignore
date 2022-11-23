@@ -1,0 +1,5 @@
+#The names of any files added this file will not be added to repo
+#doing git add . will not add these files
+log.txt
+/dir2
+
