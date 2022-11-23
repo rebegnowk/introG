@@ -2,4 +2,5 @@
 #doing git add . will not add these files
 log.txt
 /dir2
+*.txt
 
