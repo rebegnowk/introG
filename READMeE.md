@@ -1,2 +1,0 @@
-# introG
-intro Github
